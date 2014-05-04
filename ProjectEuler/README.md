@@ -1,0 +1,1 @@
+Project Euler, bilgisayar programlarıyla çözülecek matematik sorularını barındıran bir web sayfasıdır. 6 Mart 2014 itibariyle çeşitli zorluk derecelerine sahip 461 soruya sahiptir. Bende bu repo içerisinde çözebildiğim soruları paylaşacağım.
